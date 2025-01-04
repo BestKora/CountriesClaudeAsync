@@ -10,7 +10,7 @@
 
  With Claude 3.5 Sonnet, we get a great iOS app on with a Data Model to decode JSON data, with a CountriesViewModel that fetches all the necessary information from the World Bank server, converts the JSON data into Model data, and provides Views to display on the user's screen. 
  
- ![til](https://github.com/BestKora/CountriesClaude/blob/765dedfa817106d183c766995c79431a4c05ce5e/CreateCountriesApp.png)
+ ![til](https://github.com/BestKora/CountriesClaudeAsync/blob/9163c15898e4e52e014ae8b9fe2ed8fcaaa61582/CreateCountriesApp.png)
  ![til](https://github.com/BestKora/CountriesClaudeAsync/blob/765dedfa817106d183c766995c79431a4c05ce5e/CreateCountriesApp.png)
  We don't specify a single link to the World Bank sites, or a single hint about the data structure, and yet we get a fully functional iOS app. 
  
