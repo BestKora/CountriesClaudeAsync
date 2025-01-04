@@ -23,3 +23,10 @@
 * GCD
 * async / await
 * Swift 6 strict concurrency
+
+  ## This is async /await version
+
+[But there is GCD version](https://github.com/BestKora/CountriesClaude)
+
+[And Swift 6 strict concurrency](https://github.com/BestKora/CountriesClaudeSwift6StrictConcurrency)
+
