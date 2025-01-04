@@ -6,7 +6,7 @@
  If you select a country, then additional information about the population 
  and the size of GDP (gross domestic product) gdp is reported:
 
- ![til](https://github.com/BestKora/CountriesClaudeAsync/blob/0a4c1aa9cd81dc7c33e385ec43844505feb060e4/CountriesA.png)
+ ![til](https://github.com/BestKora/CountriesClaudeAsync/blob/0256985111f33836927cfed3d23ecb671255e254/CountriesA.png)
 
  With Claude 3.5 Sonnet, we get a great iOS app on with a Data Model to decode JSON data, with a CountriesViewModel that fetches all the necessary information from the World Bank server, converts the JSON data into Model data, and provides Views to display on the user's screen. 
  
